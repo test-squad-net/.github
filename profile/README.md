@@ -1,6 +1,6 @@
-<p align="center"><a href="https://test-squad.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=org-readme"><img src="team.gif" width="800" alt="Test Squad: a QA team that has your back. Since 2023, 30+ QA engineers, 40+ products tested, 5.0 on Clutch, Upwork Top Rated Plus, 100% Job Success. Free 40-hour QA trial."></a></p>
+<p align="center"><a href="https://test-squad.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=org-readme"><img src="team.gif" width="800" alt="Test Squad: QA engineers who join your team. Dedicated QA teams, SDETs and QA outsourcing. Since 2023, 30+ QA engineers, 40+ products tested, 5.0 on Clutch, Upwork Top Rated Plus. Free 40-hour QA trial."></a></p>
 
-<p align="center"><b>QA engineers who become part of your team. Software testing and QA outsourcing.</b></p>
+<p align="center"><b>Experienced QA engineers in your sprints, tools and CI. Skip months of hiring.</b></p>
 
 <p align="center">
   <a href="https://test-squad.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=org-readme">Website</a> &nbsp;·&nbsp;
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://clutch.co/profile/test-squad"><img src="https://img.shields.io/badge/Clutch-5.0-6d5bd0?style=flat-square&labelColor=2b2f45" alt="Clutch 5.0"></a>
-  <a href="https://www.upwork.com/agencies/testsquad/"><img src="https://img.shields.io/badge/Upwork-Top_Rated_Plus%2C_100%25-6d5bd0?style=flat-square&labelColor=2b2f45" alt="Upwork Top Rated Plus, 100% Job Success"></a>
+  <a href="https://www.upwork.com/agencies/testsquad/"><img src="https://img.shields.io/badge/Upwork-Top_Rated_Plus-6d5bd0?style=flat-square&labelColor=2b2f45" alt="Upwork Top Rated Plus"></a>
 </p>
 
 ## How we work
