@@ -1,6 +1,6 @@
 <p align="center"><a href="https://test-squad.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=org-readme"><img src="team.gif" width="800" alt="Test Squad: a QA team that has your back. Since 2023, 30+ QA engineers, 40+ products tested, 5.0 on Clutch, Upwork Top Rated Plus, 100% Job Success. Free 40-hour QA trial."></a></p>
 
-<p align="center"><b>Software testing and QA outsourcing. We find the bugs before your users do.</b></p>
+<p align="center"><b>QA engineers who become part of your team. Software testing and QA outsourcing.</b></p>
 
 <p align="center">
   <a href="https://test-squad.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=org-readme">Website</a> &nbsp;·&nbsp;
@@ -13,7 +13,13 @@
   <a href="https://www.upwork.com/agencies/testsquad/"><img src="https://img.shields.io/badge/Upwork-Top_Rated_Plus%2C_100%25-6d5bd0?style=flat-square&labelColor=2b2f45" alt="Upwork Top Rated Plus, 100% Job Success"></a>
 </p>
 
-## What we do
+## How we work
+
+- **[Dedicated QA team](https://test-squad.net/dedicated-qa-team?utm_source=github&utm_medium=profile&utm_campaign=org-readme).** Manual testers and SDETs who join your sprints, tools and CI, without the hiring overhead. Meet them before they start.
+- **[Hire an SDET](https://test-squad.net/hire-sdet?utm_source=github&utm_medium=profile&utm_campaign=org-readme).** Engineers who write UI and API tests in your language, wire them into your CI and review code like the rest of your team.
+- **[QA outsourcing](https://test-squad.net/qa-outsourcing?utm_source=github&utm_medium=profile&utm_campaign=org-readme).** A team that works like your own on manual and automated testing of web, mobile, desktop and AI products.
+
+## What we test
 
 | Service | What you get |
 | --- | --- |
@@ -25,7 +31,6 @@
 | [Performance testing](https://test-squad.net/services/performance-testing?utm_source=github&utm_medium=profile&utm_campaign=org-readme) | Load, stress and endurance tests with k6 and JMeter |
 | [Accessibility testing](https://test-squad.net/services/accessibility-testing?utm_source=github&utm_medium=profile&utm_campaign=org-readme) | WCAG 2.2 AA audit with screen readers and keyboard, fix list included |
 | [AI and chatbot testing](https://test-squad.net/services/ai-testing?utm_source=github&utm_medium=profile&utm_campaign=org-readme) | Evals, hallucination and prompt injection checks for LLM apps |
-| [Dedicated QA team](https://test-squad.net/dedicated-qa-team?utm_source=github&utm_medium=profile&utm_campaign=org-readme) | Manual testers and SDETs who join your sprints, tools and CI |
 
 **Industries:** [Ecommerce](https://test-squad.net/industries/ecommerce?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · [Fintech and banking](https://test-squad.net/industries/fintech?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · [Healthcare](https://test-squad.net/industries/healthcare?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · [Crypto](https://test-squad.net/industries/crypto?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · [EdTech](https://test-squad.net/industries/edtech?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · [AI products](https://test-squad.net/industries/ai?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · [Real estate](https://test-squad.net/industries/real-estate?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · [MarTech](https://test-squad.net/industries/marketing?utm_source=github&utm_medium=profile&utm_campaign=org-readme)
 
